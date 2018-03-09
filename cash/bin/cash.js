@@ -7,6 +7,9 @@ const currencies = require('../lib/currencies.json');
 
 const API = 'https://api.fixer.io/latest';
 
+/**
+* Calculate convertion between input amount currency and default currency
+*/
 const convert = configuration => {
   const {amount, to, from, response, loading} = configuration;
 

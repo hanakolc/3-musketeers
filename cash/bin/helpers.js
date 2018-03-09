@@ -8,6 +8,10 @@ const config = new Conf();
 
 updateNotifier({pkg}).notify();
 
+/**
+* Save the currency of the money to convert as default
+* 
+*/
 const saveCurrencies = argv => {
   config.set('defaultFrom', argv[1] || config.get('defaultFrom', 'USD'));
   config.set(
@@ -20,11 +24,17 @@ const saveCurrencies = argv => {
   process.exit(1);
 };
 
+/**
+* get package version
+*/
 const version = () => {
   console.log(pkg.version);
   process.exit(1);
 };
 
+/**
+* Get information about how to use the software
+*/
 const help = () => {
   console.log(`
 Usage:

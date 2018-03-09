@@ -2,6 +2,41 @@
 
 This software allows money convertion in 31 different currencies.
 
+|currencies available|
+|-------------------------|
+|"AUD":| "Australian Dollar"|
+|  "RUB":| "Russian Rouble"|
+|  "EUR":|"Euro"|
+|  "BGN":| "Bulgarian Lev"|
+|  "BRL":| "Real Brazilian"|
+|  "CAD":| "Canadian Dollar"|
+|  "CHF":| "Swiss Franc"|
+|  "CNY":| "Chinese Yuan"|
+|  "CZK":| "Czech Koruna"|
+|  "DKK":| "Danish Krone"|
+|  "GBP":|"Pound Sterling"|
+|  "HKD":| "Hong Kong Dollar"|
+|  "HRK":| "Croatian Kuna"|
+|  "HUF":| "Hungarian Forint"|
+|  "IDR":| "Indonesian Rupiah"|
+|  "ILS":| "Israeli Shekel"|
+|  "INR":| "Indian Rupee"|
+|  "JPY":| "Japanes Yen"|
+|  "KRW":| "South Korean Won"|
+|  "MXN":| "Mexican Peso"|
+|  "MYR":| "Malaysian Ringgit"|
+|  "NOK":| "Norwegian Krone"|
+|  "PHP":| "Philippine Peso"|
+|  "PLN":| "Polish Zloty"|
+|  "RON":| "Romanian New Leu"|
+|  "SEK":| "Swedish Krona"|
+|  "SGD":| "Singapore Dollar"|
+|  "THB":| "Thai Baht"|
+|  "TRY":| "Turkish Lira"|
+|  "USD":| "US Dollar"|
+|  "ZAR":| "South African Rand"|
+|  "NZD":| "New Zealand Dollar"|
+
 ##Getting Started
 Fork the project from https://github.com/92bondstreet/3-musketeers and clone it using the following command : 
 	```
